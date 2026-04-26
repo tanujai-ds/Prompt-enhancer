@@ -1,0 +1,8 @@
+streamlit
+requests
+fastapi
+uvicorn
+openai
+python-dotenv 
+streamlit
+requests
